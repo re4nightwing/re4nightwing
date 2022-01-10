@@ -55,5 +55,5 @@
 </p>
 <p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=re4nightwing&theme=dracula">
-</p>
+</p><hr>
 <small><i>*<super>I'm really glad that I could save up some time to create this README file.</super></i></small>
