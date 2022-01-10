@@ -48,12 +48,14 @@
 ![Notion](https://img.shields.io/badge/notion-black.svg?style=for-the-badge&logo=notion)
 #
 <p align="center">
-<a href="https://github.com/adityaoberai">
+<a href="https://github.com/re4nightwing">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=re4nightwing&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinzvinci&layout=compact&show_icons=true&theme=dracula&count_private=true">
 </a>
 </p>
 <p align="center">
+<a href="https://github.com/re4nightwing">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=re4nightwing&theme=dracula">
+</a>
 </p><hr>
 <small><i>*<super>I'm really glad that I could save up some time to create this README file.</super></i></small>
