@@ -24,7 +24,7 @@
 - I want to learn MEAN, MERN stacks.
 
 
-## My Skill Sets
+## My Skill Set:
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
@@ -39,7 +39,7 @@
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&color=007396)
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
 #
-## Daily Use
+## Daily Use:
 ![Xampp](https://img.shields.io/badge/xampp-%FCC624.svg?style=for-the-badge&logo=xampp&logoColor=white&color=FB7A24)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/postman-%3776AB.svg?style=for-the-badge&logo=postman&logoColor=white&color=F37626)
