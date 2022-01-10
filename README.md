@@ -38,6 +38,9 @@
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&color=007396)
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
+![WordPress](https://img.shields.io/badge/WordPress-%FFFFFF.svg?style=for-the-badge&logo=wordpress&color=424242)
+![GCP](https://img.shields.io/badge/Google_Cloud-%FFFFFF.svg?style=for-the-badge&logo=googlecloud&color=FFF)
+![AZURE](https://img.shields.io/badge/Azure-%FFFFFF.svg?style=for-the-badge&logo=microsoftazure&color=34b1e2)
 #
 ## Daily Use:
 ![Xampp](https://img.shields.io/badge/xampp-%FCC624.svg?style=for-the-badge&logo=xampp&logoColor=white&color=FB7A24)
