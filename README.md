@@ -25,8 +25,6 @@
 
 ## My Skill Set:
 
-uabnucnaivcnaisvnc
-
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
@@ -69,4 +67,3 @@ uabnucnaivcnaisvnc
 </a>
 </p><hr>
 <small><i>*<super>I'm really glad that I could save up some time to create this README file.</super></i></small>
-sdjnvsdjv scda scascascasca a casc
