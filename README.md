@@ -23,8 +23,8 @@
 - Currently, I'm learning React, Angular and Flutter.
 - I want to learn MEAN, MERN stacks.
 
-
 ## My Skill Set:
+
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
@@ -41,15 +41,20 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%FFFFFF.svg?style=for-the-badge&logo=wordpress&color=424242)
 ![GCP](https://img.shields.io/badge/Google_Cloud-%FFFFFF.svg?style=for-the-badge&logo=googlecloud&color=FFF)
 ![AZURE](https://img.shields.io/badge/Azure-%FFFFFF.svg?style=for-the-badge&logo=microsoftazure&color=34b1e2)
+
 #
+
 ## Daily Use:
+
 ![Xampp](https://img.shields.io/badge/xampp-%FCC624.svg?style=for-the-badge&logo=xampp&logoColor=white&color=FB7A24)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/postman-%3776AB.svg?style=for-the-badge&logo=postman&logoColor=white&color=F37626)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Discord](https://img.shields.io/badge/discord-purple.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-black.svg?style=for-the-badge&logo=notion)
+
 #
+
 <p align="center">
 <a href="https://github.com/re4nightwing">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=re4nightwing&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -62,3 +67,4 @@
 </a>
 </p><hr>
 <small><i>*<super>I'm really glad that I could save up some time to create this README file.</super></i></small>
+sdjnvsdjv
