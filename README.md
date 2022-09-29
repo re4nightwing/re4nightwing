@@ -42,6 +42,8 @@
 ![GCP](https://img.shields.io/badge/Google_Cloud-%FFFFFF.svg?style=for-the-badge&logo=googlecloud&color=FFF)
 ![AZURE](https://img.shields.io/badge/Azure-%FFFFFF.svg?style=for-the-badge&logo=microsoftazure&color=34b1e2)
 
+
+[![@re4nightwing's Holopin board](https://holopin.io/api/user/board?user=re4nightwing)](https://holopin.io/@re4nightwing)
 #
 
 ## Daily Use:
