@@ -1,7 +1,7 @@
 <h1 align="center">Hi There! I am Dulan Pabasara <code>[re4nightwing]</code> <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/></h1>
 <br/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arvo&color=%231A8BD2&size=36&center=true&vCenter=true&lines=Web+Designer+%26+Developer+;Programmer;Tech+Enthusiast;Connect+with+me..."></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Two&color=%231A8BD2&size=36&center=true&vCenter=true&lines=Web+Designer+%26+Developer+;Programmer;Tech+Enthusiast;Connect+with+me..."></a>
 </p>
 
 <p align="center">
