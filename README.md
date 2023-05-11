@@ -18,7 +18,7 @@
 <br/>
 <br/>
 <h2 align="center">About me</h2>
-<p>My name is <b>Dulan Pabasara</b> and my pronouns are he/him/his. I'm a 3rd-year undergraduate, doing Bachelor of Science degree in Cloud Computing from <a href="https://sltc.ac.lk/">Sri Lanka Technological Campus</a>. I particularly love problem solving using my programming knowledge because it helps me to push pass my limits. <i>Also I'm a huge weeb too. xd</i></p>
+<p>I'm <b>Dulan Pabasara</b> and my pronouns are he/him/his. I'm a 3th-year undergraduate, doing Bachelor of Science degree in Cloud Computing from <a href="https://sltc.ac.lk/">Sri Lanka Technological Campus</a>. I particularly love problem solving using my programming knowledge because it helps me to push pass my limits. <i>Also I'm a huge weeb too. So as a hobby I've been typesetting, cleaning & redrawing manga/manhwa/manhua for about 2 years now with Shinsei Scans. xd</i></p>
 
 - Currently, I'm learning React, Angular and Flutter.
 - I want to learn MEAN, MERN stacks.
@@ -36,6 +36,8 @@
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![GITHUB](https://img.shields.io/badge/github-%3776AB.svg?style=for-the-badge&logo=github&logoColor=purple&color=FFFFFF)
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![Flask](https://img.shields.io/badge/Flask-%FFFFFF.svg?style=for-the-badge&logo=flask&color=000000)
+![Django](https://img.shields.io/badge/Django-%FFFFFF.svg?style=for-the-badge&logo=django&color=103e2e)
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&color=007396)
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
 ![WordPress](https://img.shields.io/badge/WordPress-%FFFFFF.svg?style=for-the-badge&logo=wordpress&color=424242)
@@ -68,4 +70,4 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=re4nightwing&theme=dracula">
 </a>
 </p><hr>
-<small><i>*<super>I'm really glad that I could save up some time to create this README file.</super></i></small>
+<small><i>*<super>I'm really glad that I could save up some time to create this README file. Send a friend request @ re4nightwing#0955 </super></i></small>
