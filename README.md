@@ -18,10 +18,10 @@
 <br/>
 <br/>
 <h2 align="center">About me</h2>
-<p>I'm <b>Dulan Pabasara</b> and my pronouns are he/him/his. I'm a 4th-year undergraduate, doing Bachelor of Science degree in Cloud Computing from <a href="https://sltc.ac.lk/">Sri Lanka Technological Campus</a>. I particularly love problem solving using my programming knowledge because it helps me to push pass my limits. <i>Also I'm a huge weeb too. So as a hobby I've been typesetting, cleaning & redrawing manga/manhwa/manhua for about 2 years now with Shinsei Scans. xd</i></p>
+<p>Hello! I'm <b>Dulan Pabasara</b>, a 4th-year undergraduate, enrolled in Bachelor of Science degree in Cloud Computing at <a href="https://sltc.ac.lk/">Sri Lanka Technological Campus</a>. I particularly love problem solving using my programming knowledge because it helps me to push pass my limits. <i>Also I'm a huge weeb too. So as a hobby I've been typesetting, cleaning & redrawing manga/manhwa/manhua for about 2 years now with Shinsei Scans. xd</i></p>
 
-- Currently, I'm learning React, Angular and Flutter.
-- I want to learn MEAN, MERN stacks.
+- Currently, I'm learning DevOps.
+- I want to learn more about how cloud services can help SDLF with automation.
 
 ## My Skill Set:
 
